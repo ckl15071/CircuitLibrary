@@ -1,0 +1,6 @@
+#pragma onoce
+
+class SixaxisBase
+{
+
+};
