@@ -5,12 +5,10 @@ class Encoder
 {
 public:
     Encoder();
-    ~Encoder();
 
-    void setup(void);
+    void setup();
     uint16_t read(void);
 
 private:
-    uint16_t m_cnt;
 
 };

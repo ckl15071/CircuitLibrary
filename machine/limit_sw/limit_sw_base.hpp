@@ -1,6 +1,6 @@
 #pragma once
 
-class Uenc
+class LimitSwBase
 {
 public:
 
